@@ -27,7 +27,7 @@ A aplicação consome a API **Gutendex** para realizar as seguintes operações:
 - Listar Livros Registrados
 - Listar Autores Registrados
 - Listar Autores Vivos em um Ano Específico
-- Listar Livros em um Idioma Específico
+- Listar Livros em um Idioma Específico.
 
 ## 💻 Uso
 
