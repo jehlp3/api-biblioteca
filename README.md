@@ -29,8 +29,9 @@ A aplicação consome a API **Gutendex** para realizar as seguintes operações:
 - Listar Autores Vivos em um Ano Específico
 - Listar Livros em um Idioma Específico.
 
+<!--
 ## 💻 Uso
 
 ![Imagem de uso da aplicação 1](src/main/java/br/com/BuscaLivros/usoImagens/img.png) <br/>
 ![Imagem de uso da aplicação 2](src/main/java/br/com/BuscaLivros/usoImagens/img_1.png) <br/>
-![Imagem de uso da aplicação 3](src/main/java/br/com/BuscaLivros/usoImagens/img_2.png)
+![Imagem de uso da aplicação 3](src/main/java/br/com/BuscaLivros/usoImagens/img_2.png) -->
